@@ -52,4 +52,4 @@ gem 'spring',        group: :development
 gem "paperclip"
 
 # Adds authorization
-gem "sorcery"
+gem "sorcery", ">= 0.8.6"
